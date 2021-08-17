@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hellooo! I am Kirigod🖤</h1>
+    <h1>Hellooo! I'm Kirigod🖤</h1>
     <img src="https://github-readme-stats.vercel.app/api?username=Kirigod&show_icons=true&theme=blueberry&title_color=04b4ff&text_color=fff&icon_color=00b4d8&hide_border=true&include_all_commits=true&count_private=true"/>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirigod&layout=compact&langs_count=7&theme=blueberry&title_color=04b4ff&text_color=fff&icon_color=00b4d8&hide_border=true"/>

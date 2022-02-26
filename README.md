@@ -22,10 +22,6 @@
 </div>
 
   ##
-  
-<div>
-    <a align="center" href ="mailto: imperialdevelopment.contact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
     
 <div>
     <img align="left" alt="Kiri-Kurumi-chan" height="220" width="300" src="https://cdn.discordapp.com/attachments/841436319187206174/841436385931427920/AW3922346_18.gif">
